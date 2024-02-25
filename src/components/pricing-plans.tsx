@@ -4,11 +4,6 @@ import { relative } from 'path'
 
 export const PricingPlans = () => {
   return (
-    // <div className='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'>
-    //     <pre className='mt-12 bg-cyan-50 p-8 font-medium text-cyan-800'>
-
-    //     </pre>
-    // </div>
     <div className='relative'>
         {/* background decorations */}
         <div className="absolute inset-0 flex flex-col">
