@@ -1,6 +1,4 @@
 import {pricingPlans} from '@/data/index' 
-import { relative } from 'path'
-
 
 export const PricingPlans = () => {
   return (
